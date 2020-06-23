@@ -1,6 +1,7 @@
 # Tavern-Ci Container Builder
 
 This is a docker container for the tavern-ci project.
+Tavern-ci is based on py-test.
 
 https://github.com/taverntesting/tavern
 
